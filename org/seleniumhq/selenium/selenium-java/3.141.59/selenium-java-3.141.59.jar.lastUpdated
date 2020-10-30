@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 29 00:41:29 IST 2020
+http\://ilospld001.corp.amdocs.com\:8081/nexus/content/repositories/releases/.error=
+http\://iloscmn025\:8081/nexus/content/repositories/releases/.error=
+http\://indlin307.corp.amdocs.com\:8080/nexus/content/groups/development/.lastUpdated=1603912289107
+http\://ilospld001.corp.amdocs.com\:8081/nexus/content/repositories/releases/.lastUpdated=1603912276649
+http\://iloscmn025\:8081/nexus/content/repositories/releases/.lastUpdated=1603912277830
